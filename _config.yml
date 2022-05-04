@@ -13,8 +13,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Badges:
   <p align='left'>
-  <img style="border:3px outset silver; " src="File/gitlab.png" alt="html" width="50" height="50" title="GitLab CI/CD Badge">
-  <img style="border:3px outset silver;" src="File/atlassian.png" alt="html" width="50" height="50" title="Atlassian University Badge">
+  <img style="border:3px outset silver;" src="File/gitlab.png" alt="html" width="35" height="35" title="GitLab CI/CD">
+  <img style="border:3px outset silver;" src="File/atlassian.png" alt="html" width="35" height="35" title="Atlassian University Badge">
   </p>
   <br><br>
 theme: jekyll-theme-minimal
