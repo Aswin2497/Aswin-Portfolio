@@ -1,0 +1,20 @@
+title: Aswin P K # your name (or website title) here
+logo: "File/Aswin_pp.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  DevOps Engineer
+  <br><br>
+  <a href="mailto:pkaswin06@gmail.com">pkaswin06@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/aswin-p-k/">LinkedIn Profile</a>
+  <br>
+  <a>(+91) 9445156570</a>
+  <br>
+  <a href="File/Aswin.pdf">Resume</a>
+  <br><br>
+  Badges:
+  <p align='left'>
+  <img style="border:3px outset silver; " src="File/gitlab.png" alt="html" width="50" height="50" title="GitLab CI/CD Badge">
+  <img style="border:3px outset silver;" src="File/atlassian.png" alt="html" width="50" height="50" title="Atlassian University Badge">
+  </p>
+  <br><br>
+theme: jekyll-theme-minimal
